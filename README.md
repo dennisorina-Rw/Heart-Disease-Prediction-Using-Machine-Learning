@@ -1,2 +1,2 @@
-# Heart-Disease-Prediction-Using-Machine-Learning
-This is a machine learning model to analyze data such as age, blood pressure, cholesterol levels, heart rate, and lifestyle factors to detect hidden correlations that may indicate risk of heart disease. 
+# Heart-Disease-Prediction-Dashboard-August-2026
+Welcome to the Heart Disease Diagnostic Dashboard. This application uses machine learning models to predict the presence of Atherosclerotic Heart Disease based on patient clinical data
